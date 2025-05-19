@@ -20,7 +20,7 @@
                 "type": "string"
             }
         ],
-        "name": "createTweet",
+        "name": "createTweets",
         "outputs": [],
         "stateMutability": "nonpayable",
         "type": "function"
